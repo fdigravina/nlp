@@ -1,0 +1,3 @@
+inserire o meno i risultati dell'lda in base ai ruoli definiti dalla colonna person_couple
+vari cambi di prompt e di lingua (italiano e inglese)
+fornire esempio di una conversazione per ogni ruolo o non fornire alcun esempio in anticipo
